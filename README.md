@@ -1,2 +1,2 @@
 # loyverse-shopify-integration-skuplugs
-Seamlessly sync inventory, orders, and customers with Loyverse Shopify Integration using SKUPlugs for smooth omnichannel retail management.
+[**Loyverse Shopify Integration with SKUPlugs**](https://skuplugs.com/loyverse-shopify-integration/) helps retailers seamlessly sync inventory, orders, products, and customer data between Loyverse POS and Shopify. Automate online and offline sales management, reduce manual work, avoid stock mismatches, and improve operational accuracy. SKUPlugs ensures real-time synchronization, scalable automation, and a smooth omnichannel retail experience for growing businesses using Loyverse and Shopify together.
